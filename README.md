@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Como falar comigo:
-- **Instagram:** @llohannealves  
+- **Instagram:** @llohannesouza 
 - **GitHub:** github.com/llohannealves  
 
 ---
