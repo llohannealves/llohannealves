@@ -1,16 +1,32 @@
-## Hi there 👋
+## Oii, eu sou a Lohanne 👋💻
 
-<!--
-**llohannealves/llohannealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🚀 Explorando o universo da tecnologia e sempre aprendendo algo novo  
+💡 Apaixonada por resolver problemas e transformar ideias em projetos reais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente aprendendo:
+- Lógica de programação  
+- HTML, CSS e JavaScript  
+- Banco de dados  
+- Versionamento com Git e GitHub  
+
+---
+
+### 💼 Projetos e interesses:
+- Desenvolvimento web  
+- Banco de dados e modelagem  
+- Pequenos sistemas para estudo  
+- Análise e solução de problemas  
+
+---
+
+### 📫 Como falar comigo:
+- **Instagram:** @llohannealves  
+- **GitHub:** github.com/llohannealves  
+
+---
+
+### ✨ Fun fact:
+A tecnologia me escolheu, e agora eu sigo firme aprendendo e crescendo um pouquinho todo dia 🤍  
